@@ -68,5 +68,5 @@ This project is licensed under the MIT License.
 ---
 
 <p align="center">
-  Made with ❤️ using HTML, CSS & JavaScript
+  Made with Sunglasses using HTML, CSS & JavaScript
 </p>
